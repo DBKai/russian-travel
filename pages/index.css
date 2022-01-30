@@ -20,29 +20,9 @@
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__span-accent/intro__span-accent.css);
 
-@font-face {
-  font-family: 'Inter';
-  font-style:  normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(../vendor/fonts/inter/Inter-Regular.woff2?v=3.19) format("woff2"),
-       url(../vendor/fonts/inter/Inter-Regular.woff?v=3.19) format("woff");
-}
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
-@font-face {
-  font-family: 'Inter';
-  font-style:  normal;
-  font-weight: 900;
-  font-display: swap;
-  src: url(../vendor/fonts/inter/Inter-Black.woff2?v=3.19) format("woff2"),
-       url(../vendor/fonts/inter/Inter-Black.woff?v=3.19) format("woff");
-}
 
-@font-face {
-  font-family: 'Inter';
-  font-style:  normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url(../vendor/fonts/inter/Inter-Bold.woff2?v=3.19) format("woff2"),
-       url(../vendor/fonts/inter/Inter-Bold.woff?v=3.19) format("woff");
-}
+
+@import url(../vendor/fonts/inter/inter.css);
