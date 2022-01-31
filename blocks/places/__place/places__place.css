@@ -1,0 +1,5 @@
+.places__place {
+  display: grid;
+  grid-template-columns: 51% 49%;
+  grid-template-rows: min-content 1fr 1fr;
+}
