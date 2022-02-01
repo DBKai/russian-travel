@@ -3,5 +3,4 @@
   gap: 16px;
   grid-template-columns: repeat(4, max-content);
   justify-content: center;
-  padding-top: 93px;
 }
