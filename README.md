@@ -1,6 +1,8 @@
 # Проект: Путешествие по России
 ![HTML5](https://img.shields.io/badge/HTML-HTML5-red?logo=HTML5&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS-CSS3-green?logo=CSS3&style=flat)
+
+Ознакомиться с проектом можно здесь: [https://dkay.ru/russian-travel/](https://dkay.ru/russian-travel/)
 ## Описание проекта
 Проект типового одностраничного сайта, разработанного в рамках курса Web-разработчик от Яндекс.Практикум.
 ## Цель проекта
