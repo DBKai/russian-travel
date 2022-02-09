@@ -4,7 +4,7 @@
   margin: 26px 0 0;
 }
 
-.place__paragraph:nth-of-type(1) {
+.place__paragraph:first-child {
   margin: 0;
 }
 
