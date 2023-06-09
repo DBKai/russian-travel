@@ -3,8 +3,11 @@
 ![CSS3](https://img.shields.io/badge/CSS-CSS3-green?logo=CSS3&style=flat)
 
 Ознакомиться с проектом можно здесь: [https://dkay.ru/russian-travel/](https://dkay.ru/russian-travel/)
+
+Макет с фигма здесь: [Sprint-3_-Russia-_-desktop-mobile](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 ## Описание проекта
 Проект одностраничного сайта о путешествиях по России, разработанного в рамках курса Web-разработчик от Яндекс.Практикум.
+
 ## Цель проекта
 Закрепить следующие навыки:
 - верстка с применением Grid Layout
@@ -15,6 +18,6 @@
 - оптимизация изображений при помощи [TinyPNG](https://tinypng.com/)
 - работа с ветками в git
 
-## Планы по доработке проекта:
-- [ ] использовать относительные значения свойств
-- [ ] сократить количество медиазапросов
+## Запуск проекта:
+- Клонируйте репозиторий `git clone`
+- Откройте файл `index.html` в браузере
