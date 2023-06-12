@@ -2,9 +2,9 @@
 ![HTML5](https://img.shields.io/badge/HTML-HTML5-red?logo=HTML5&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS-CSS3-green?logo=CSS3&style=flat)
 
-Ознакомиться с проектом можно здесь: [https://dkay.ru/russian-travel/](https://dkay.ru/russian-travel/)
+Ознакомиться с проектом можно здесь: [https://dbkai.github.io/russian-travel/](https://dbkai.github.io/russian-travel/)
 
-Макет с фигма здесь: [Sprint-3_-Russia-_-desktop-mobile](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+Макет с фигма здесь: [Sprint-3-Russia](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 ## Описание проекта
 Проект одностраничного сайта о путешествиях по России, разработанного в рамках курса Web-разработчик от Яндекс.Практикум.
 
